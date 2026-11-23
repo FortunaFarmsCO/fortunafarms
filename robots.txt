@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fortunafarms.com/sitemap.xml
